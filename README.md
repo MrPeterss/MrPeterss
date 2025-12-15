@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 Originally from outside Albany, NY<br>🎓 Studying Information Science at Cornell University<br>💻 Working on coding projects that are meaningful to me<br>🍎 Learning new languages that are relevant to industry<br>💪 Loves lifting<br>💻 [peterbidoshi.com](https://peterbidoshi.com)
+📍 Originally from Upstate NY<br>🎓 Studying Computer Science at Cornell University<br>💻 Dabble in Minecraft Modding<br>🍎 Constantly learning<br>💪 Loves lifting<br>💻 [peterbidoshi.com](https://peterbidoshi.com)
 
 
 ## 🌐 Socials:
